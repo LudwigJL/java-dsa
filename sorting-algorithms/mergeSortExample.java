@@ -19,7 +19,7 @@ public class mergeSortExample {
 
         /** Time Complexity: Log linear O(n log n)
             Usecase: One of the more widely used and effecient sorting algorithms. Ex Python use mergeSort in its 
-            buidlt- in sorting functions. The mergeSort algoritm can also be used to solve other provblems with the divide-and-conquer approach. 
+            buidlt- in sorting functions. The mergeSort algoritm can also be used to solve other problems with the divide-and-conquer approach. 
 
         **/
 
