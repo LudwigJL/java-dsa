@@ -18,7 +18,7 @@ public class linearSearchExample {
     public static int linearSearch(List<Integer> list, int target){
 
         //Time Complexity: Linear Time O(n)
-        //Use case: Consider using linear search when data is not sorted. If data is sorted binary seach is the better option. 
+        //Use case: Consider using linear search when data is not sorted. If data is sorted binary search is the better option. 
         
 
         for(int i = 0; i < list.size(); i++){
